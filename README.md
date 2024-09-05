@@ -4,4 +4,11 @@
 - 💞️ Looking to collaborate on full-stack development projects using the MERN stack.
 - 📫 How to reach me: Email me at rehan048686@gmail.com
 ### Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,mysql,redux,tailwind)](https://skillicons.dev)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)
+[![React](https://skillicons.dev/icons?i=react)](https://reactjs.org)
+[![Node.js](https://skillicons.dev/icons?i=nodejs)](https://nodejs.org)
+[![Express](https://skillicons.dev/icons?i=express)](https://expressjs.com)
+[![MongoDB](https://skillicons.dev/icons?i=mongodb)](https://www.mongodb.com)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
+[![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
+[![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
