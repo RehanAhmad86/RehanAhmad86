@@ -1,7 +1,7 @@
  # Hi 👋, I’m Rehan
 ### 👀 A MERN stack developer passionate about building scalable web applications and exploring new JavaScript frameworks.
-- 🌱 Currently learning Node.js, and state management with Redux.
-- 💞️ Looking to collaborate on full-stack development projects using the MERN stack.
+- 🌱 Currently learning Next.js
+- 💞 Looking to collaborate on full-stack development projects using the MERN stack.
 - 📫 How to reach me: Email me at rehan048686@gmail.com
 ### Tech Stack
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://www.javascript.com)
