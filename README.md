@@ -12,3 +12,4 @@
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com)
 [![Redux](https://skillicons.dev/icons?i=redux)](https://redux.js.org)
 [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)](https://tailwindcss.com)
+[![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
