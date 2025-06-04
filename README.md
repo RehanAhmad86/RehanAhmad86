@@ -15,3 +15,11 @@
 [![TypeScript](https://skillicons.dev/icons?i=typescript)](https://www.typescriptlang.org)
 [![Vercel](https://skillicons.dev/icons?i=vercel)](https://vercel.com)
 [![Firebase](https://skillicons.dev/icons?i=firebase)](https://firebase.google.com)
+
+[![Rehan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RehanAhmad86&theme=github-compact)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RehanAhmad86&theme=default) 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RehanAhmad86&layout=compact)
+
